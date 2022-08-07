@@ -24,4 +24,4 @@ I am a developer working on web and mobile applications. I mainly specialize in 
 
 ## Future study plans 👨‍🎓
 
-![TypeScript](https://img.shields.io/badge/-Typescript-3178C6?logo=Typescript&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-f3f3f3?logo=TypeScript&logoColor=3178C6&style=for-the-badge)
